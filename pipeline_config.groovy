@@ -35,7 +35,7 @@ stages{
         install
         unit_test
         build
-        static_code_analysis
+        //static_code_analysis
         //scan_artifact
     }
 }
